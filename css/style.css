@@ -1,0 +1,90 @@
+.header {
+  background-color: #1A3FC4;
+  text-align: center;
+  padding: 20px;
+  color: #94A4DF;
+}
+
+.header h1 p {
+  font-size: 50px;
+}
+
+.header-text {
+  width: 300px;
+  height: 150px;
+  margin-left: 760px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: white;
+  text-align: center;
+  border-radius: 3%;
+}
+
+.main {
+  height: 700px;
+  text-align: center;
+  background-color: #143096;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+#image-container {
+  bottom: 20px;
+  padding-top: 50px;
+  width: 100%;
+}
+
+.input {
+  display: block;
+  width: 400px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  background-color: #FFB266;
+  border-radius: 3%;
+  margin: auto;
+}
+
+#wrong-email {
+  background-color: #FFBABA;
+  color: #D8000C;
+  text-align: center;
+  margin: auto;
+  width: 700px;
+  margin-top: 50px;
+}
+
+p {
+  margin: 0;
+}
+
+#stored {
+  color: white;
+}
+
+#stored li {
+  list-style: none;
+}
+
+#stored li a {
+  color: white;
+}
+
+footer {
+  background-color: #143096;
+  height: 100px;
+}
+/*# sourceMappingURL=style.css.map */
